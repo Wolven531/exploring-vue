@@ -1,0 +1,14 @@
+<html>
+  <body>
+    <div id="app">
+      <p>{{ helloMessage }}</p>
+    </div>
+    <script src="./node_modules/vue/dist/vue.min.js"></script>
+    <script>
+        const app = new Vue({
+            el: '#app',
+            data: { helloMessage: 'Hello World! (From Vue)' }
+        })
+    </script>
+  </body>
+</html>
