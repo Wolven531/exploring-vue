@@ -1,0 +1,19 @@
+{
+  "name": "exploring-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolven531/exploring-vue.git"
+  },
+  "author": "Anthony Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wolven531/exploring-vue/issues"
+  },
+  "homepage": "https://github.com/Wolven531/exploring-vue#readme"
+}
